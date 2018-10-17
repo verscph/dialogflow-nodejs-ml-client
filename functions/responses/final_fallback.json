@@ -1,0 +1,9 @@
+[{
+    "locale": "en",
+    "msg": ["I''m sorry I''m having trouble here. Maybe we should try this again later."]
+  },
+  {
+    "locale": "fr",
+    "msg": ["Excusez-moi, mais je peut pas vous aider. Peut-être on doit essayer de nouveau plus tard?"]
+  }
+]

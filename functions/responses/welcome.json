@@ -1,0 +1,14 @@
+[{
+    "locale": "en",
+    "msg": [
+      "Welcome to my agent!",
+      "Welcome to my agent (alt)"
+    ]
+  },
+  {
+    "locale": "fr",
+    "msg": [
+      "Bienvenue à mon agent!"
+    ]
+  }
+]

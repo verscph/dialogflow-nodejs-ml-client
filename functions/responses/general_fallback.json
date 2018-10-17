@@ -1,0 +1,15 @@
+[{
+    "locale": "en",
+    "msg": ["Sorry, what was that?",
+      "I didn''t quite get that. What do you want to know about?",
+      "I''m really sorry, I can''t understand. Would you like to hear what I can do for you?"
+    ]
+  },
+  {
+    "locale": "fr",
+    "msg": ["Excusez-moi, qu''est-ce que vous dites?",
+      "Je n''ai pas compris. Je peut vous aider avec....",
+      "Désolé, je comprends pas. Est-ce que vous voulez... "
+    ]
+  }
+]
